@@ -50,5 +50,5 @@ This project consists of two parts, the first part was to derive functional and 
 - Handle reports by sending a warning to the reported user, discarding the report, or banning the reported user
 
 ## Mockup UI:
-The second part of this project was to create a clickable mockup UI for the webiste which can be viewed from the link below:
+The second part of this project was to create a clickable mockup UI using marvel for the website which can be viewed from this link:
 https://drive.google.com/drive/folders/1-F8ZM4FU2fDiSdWNnI5_WrZo_lPFby6y 
